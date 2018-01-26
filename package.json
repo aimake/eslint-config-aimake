@@ -8,6 +8,10 @@
     "aimake",
     "config"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aimake/eslint-config-aimake.git"
+  },
   "scripts": {
     "test": "tape test/*.js"
   },

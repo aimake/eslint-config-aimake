@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-aimake",
   "version": "0.0.1",
-  "description": "",
+  "description": "ESLint configuration used by aimake.io",
   "main": "index.js",
   "keywords": [
     "eslint",

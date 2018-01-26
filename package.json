@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-aimake",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "aimake",
+    "config"
+  ],
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "readmeFilename": "README.md",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^4.16.0"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "tape": "^4.8.0"
+  }
+}

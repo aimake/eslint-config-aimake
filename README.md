@@ -1,6 +1,6 @@
 # eslint-config-aimake
 
-ESlint rules for Legao with `[ 'ES5', 'ES.NEXT', 'React' ]` support.
+ESlint rules for aimake with `[ 'ES5', 'ES.NEXT', 'React' ]` support.
 
 > Based on [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
